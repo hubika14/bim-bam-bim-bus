@@ -1,0 +1,21 @@
+body{background-color: rgb(243, 244, 247);
+color: rgb(0, 0, 0);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;}
+h1{text-align: center;}
+p{width: 600px;
+margin-left: 300px;
+line-height: 1.5;
+text-align: justify;}
+nav{padding-left: 50px;
+    width: 200px;
+line-height: 2;
+}
+.vpravo{float: right;}
+.vlevo{float: left;}
+
+img{margin-right: 100px;}
+
+a:link{color: black;text-decoration: none;}
+a:visited{color: gray;}
+a:active{color: aqua;text-decoration: underline;}
